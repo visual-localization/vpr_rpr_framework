@@ -105,6 +105,11 @@ Our method is evaluated on Pittsburgh250k-test dataset and Cambridge Landmark da
 ![image](image/demo1.png)
 ![image](image/demo2.png)
 
+<video width="320" height="240" controls>
+  <source src="https://github.com/visual-localization/vpr_rpr_framework/tree/main/image/EssentialMixer.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ### Acknowledgements
 Parts of this project are inspired by the following repositories:
 - [MixVPR](https://github.com/amaralibey/MixVPR/tree/main)
