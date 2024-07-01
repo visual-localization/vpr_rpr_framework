@@ -105,7 +105,7 @@ Our method is evaluated on Pittsburgh250k-test dataset and Cambridge Landmark da
 ![image](image/demo1.png)
 ![image](image/demo2.png)
 
-<video src="https://github.com/visual-localization/vpr_rpr_framework/blob/main/image/EssentialMixer.mp4" width="300" />
+https://github.com/visual-localization/vpr_rpr_framework/assets/80466872/2fb5dd3a-6eb5-4ef3-897e-da7646f3029c
 
 ### Acknowledgements
 Parts of this project are inspired by the following repositories:
